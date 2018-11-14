@@ -33,7 +33,7 @@ experience of the challenge for other developers who find this repository.
 
 ### Beginner
 
-* [Babylonian square root method](/babylonian-method/) Assigned: Josh
+* ~~[Babylonian square root method](/babylonian-method/)~~
 * ~~[Number frequency](/number-frequency/)~~
 
 ### Intermediate
@@ -50,7 +50,7 @@ experience of the challenge for other developers who find this repository.
 
 ### Lowest Priority (Tie-breaker)
 
-* [Recreate setInterval](/setinterval/) Assigned: Jeremy
+* [Recreate setInterval](/setinterval/) Assigned: Team
 
 ## Relevant Reading
 
