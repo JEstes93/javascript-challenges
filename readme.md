@@ -39,9 +39,9 @@ experience of the challenge for other developers who find this repository.
 ### Intermediate
 
 * [Stack machine calculator](/stack-machine-calculator/) Assigned: Joe
-* [Target sum exists](/target-sum-exists/)
+* ~~[Target sum exists](/target-sum-exists/)~~
 * ~~[Balanced Parentheses](/balanced-parens/)~~
-* [Add eventing](/add-eventing/) Assigned: Jeremy
+* ~~[Add eventing](/add-eventing/)~~
 
 ### Advanced
 
@@ -50,7 +50,7 @@ experience of the challenge for other developers who find this repository.
 
 ### Lowest Priority (Tie-breaker)
 
-* [Recreate setInterval](/setinterval/)
+* [Recreate setInterval](/setinterval/) Assigned: Jeremy
 
 ## Relevant Reading
 
