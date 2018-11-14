@@ -34,7 +34,7 @@ experience of the challenge for other developers who find this repository.
 ### Beginner
 
 * [Babylonian square root method](/babylonian-method/) Assigned: Josh
-* ~~[Number frequency](/number-frequency/)~~
+* [Number frequency](/number-frequency/)
 
 ### Intermediate
 
@@ -45,7 +45,7 @@ experience of the challenge for other developers who find this repository.
 
 ### Advanced
 
-* [Object diffing](/object-diff/)
+* ~~[Object diffing](/object-diff/)~~
 * ~~[Recreate Promise.all](/promise-dot-all/)~~
 
 ### Lowest Priority (Tie-breaker)
