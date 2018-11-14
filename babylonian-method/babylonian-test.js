@@ -35,7 +35,11 @@ test('it calculates infinite fraction square roots', assert => {
   const actual = squareRoot(radicand)
   const expected = 3.162277660168379
 
-  assert.equal(actual, expected, 'should properly end infinite decimal square roots')
+  assert.equal(
+    actual,
+    expected,
+    'should properly end infinite decimal square roots'
+  )
 
   assert.end()
 })
