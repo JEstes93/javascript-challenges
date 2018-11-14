@@ -33,21 +33,24 @@ experience of the challenge for other developers who find this repository.
 
 ### Beginner
 
-* [Babylonian square root method](/babylonian-method/)
-* [Number frequency](/number-frequency/)
+* [Babylonian square root method](/babylonian-method/) Assigned: Josh
+* ~~[Number frequency](/number-frequency/)~~
 
 ### Intermediate
 
-* [Stack machine calculator](/stack-machine-calculator/)
+* [Stack machine calculator](/stack-machine-calculator/) Assigned: Joe
 * [Target sum exists](/target-sum-exists/)
-* [Balanced Parentheses](/balanced-parens/)
+* ~~[Balanced Parentheses](/balanced-parens/)~~
 * [Add eventing](/add-eventing/)
 
 ### Advanced
 
 * [Object diffing](/object-diff/)
+* [Recreate Promise.all](/promise-dot-all/) Assigned: Jeremy
+
+### Lowest Priority (Tie-breaker)
+
 * [Recreate setInterval](/setinterval/)
-* [Recreate Promise.all](/promise-dot-all/)
 
 ## Relevant Reading
 
