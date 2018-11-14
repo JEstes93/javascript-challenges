@@ -9,7 +9,7 @@ const addEventing = function (obj) {
   obj.trigger = (name, ...args) => {
     if (obj.events.hasOwnProperty(name)) {
       for (let event of obj.events[name]) {
-        event(args)
+        event(...args)
       }
     }
   }

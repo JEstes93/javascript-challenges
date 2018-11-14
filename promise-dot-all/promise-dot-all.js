@@ -3,6 +3,10 @@ const all = (promises) => new Promise((resolve, reject) => {
   const getValue = (promise,i) => {
     if (!promise) {
       resolve(values)
+    } else if (!promise.then) {
+      values.push(promise)
+      i++
+      getValue(promises[i],i)
     } else {
       promise.then(v => {
         values.push(v)
