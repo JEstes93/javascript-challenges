@@ -41,12 +41,12 @@ experience of the challenge for other developers who find this repository.
 * [Stack machine calculator](/stack-machine-calculator/) Assigned: Joe
 * [Target sum exists](/target-sum-exists/)
 * ~~[Balanced Parentheses](/balanced-parens/)~~
-* [Add eventing](/add-eventing/)
+* [Add eventing](/add-eventing/) Assigned: Jeremy
 
 ### Advanced
 
 * [Object diffing](/object-diff/)
-* [Recreate Promise.all](/promise-dot-all/) Assigned: Jeremy
+* ~~[Recreate Promise.all](/promise-dot-all/)~~
 
 ### Lowest Priority (Tie-breaker)
 
