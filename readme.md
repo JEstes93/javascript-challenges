@@ -34,11 +34,11 @@ experience of the challenge for other developers who find this repository.
 ### Beginner
 
 * [Babylonian square root method](/babylonian-method/) Assigned: Josh
-* [Number frequency](/number-frequency/)
+* ~~[Number frequency](/number-frequency/)~~
 
 ### Intermediate
 
-* [Stack machine calculator](/stack-machine-calculator/) Assigned: Joe
+* ~~[Stack machine calculator](/stack-machine-calculator/)~~
 * ~~[Target sum exists](/target-sum-exists/)~~
 * ~~[Balanced Parentheses](/balanced-parens/)~~
 * ~~[Add eventing](/add-eventing/)~~
